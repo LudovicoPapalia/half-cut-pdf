@@ -32,4 +32,4 @@ split_pdf_vertically("path/of/source.pdf", "path/of/final_product.pdf")
 - Python 3.x
 - PyPDF2 library
 
-*Note: The script is intended for use with standard PDF files. Non-standard or encrypted PDFs might require additional handling not covered by this script.*
+*Note: The script is intended for use with standard PDF files. Non-standard or encrypted PDFs might require additional handling not covered by this script. This code and libraries may for some reason corrupt your files. Use the program only on backups and in any case use the code at your own risk.*
